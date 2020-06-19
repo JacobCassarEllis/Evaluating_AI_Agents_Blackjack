@@ -1,0 +1,4 @@
+,learning_rate,discount_factor,exploration_rate,wins,losses,net_chips
+0,0.01,0.8,0.05,44630,49335,-6458
+2,0.01,0.7,0.2,44821,49742,-5997
+1,0.01,0.8,0.2,44781,49810,-6733
